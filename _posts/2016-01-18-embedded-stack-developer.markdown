@@ -9,8 +9,8 @@ published: true
 
 Help us build the future of Industrial Lighting with the IoT. We strongly believe in green energy and avoid wasting 
 energy. We make lighting systems smart by gathering data and making them self-learning. We blend classic, proven 
-technologies with the latest top notch technologies. With you, our products will go beyond lighting: radiators, airco,
- smart manufacturing, ...
+technologies with the latest top notch technologies. You’re the one to take our product line beyond lighting: radiators, 
+airconditioning, smart manufacturing, ...
 
 We're a startup based in [Hasselt](https://en.wikipedia.org/wiki/Hasselt) on the 
 [Corda Campus](http://www.cordacampus.com/).
