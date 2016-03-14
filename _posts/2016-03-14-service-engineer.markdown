@@ -4,7 +4,7 @@ title:  "Service Engineer"
 subtitle: "We imagine, hack, shape and build IoT products"
 teaser: Verantwoordelijk voor het uitrollen van Internet of Things LED verlichting systemen
 description: Verantwoordelijk voor het uitrollen van Internet of Things LED verlichting systemen
-date:   2016-01-18 10:18:25 +0100
+date:   2016-03-14 13:42:25 +0100
 published: true
 ---
 
