@@ -18,7 +18,7 @@ We're a startup based in [Hasselt](https://en.wikipedia.org/wiki/Hasselt) on the
 ### Projects you’ll work on
 
 * **Real-time dashboards**: create beautiful charts based on real-time data inbound from the lighting.
-* **Shiny full-page interfaces**: crafted with the latest tools and trends en webdevelopment.
+* **Shiny full-page interfaces**: crafted with the latest tools and trends in webdevelopment.
 * **Mobile Apps**: we’re building apps to configure and manage our lights.
 
 ### Our Stack
