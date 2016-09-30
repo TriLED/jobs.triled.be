@@ -3,7 +3,7 @@ layout: post
 title:  "Front-End Developer"
 subtitle: "We imagine, hack, shape and build IoT products"
 teaser: Angular2, TypeScript, Webpack, Gulp, React.js, React Native, WebSockets, Reactive programming.
-date:   2016-04-14 10:18:25 +0100
+date:   2016-09-30 10:18:25 +0100
 published: true
 ---
 
@@ -23,7 +23,7 @@ We're a startup based in [Hasselt](https://en.wikipedia.org/wiki/Hasselt) on the
 
 ### Our Stack
 
-Angular2, TypeScript, Webpack, Gulp, React.js, React Native, Node.js, SASS, Docker, Python, WebSockets, Reactive programming.
+Angular2, d3.js, TypeScript, Webpack, Gulp, React.js, React Native, Node.js, SASS, Docker, Python, WebSockets, Reactive programming.
 
 However, all of these technologies are interchangeable. We believe in continuously improving our stack and always 
 deliberately select the right tool for the right job. 

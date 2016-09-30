@@ -3,7 +3,7 @@ layout: post
 title:  "Full Stack Developer"
 subtitle: "We imagine, hack, shape and build IoT products"
 teaser: Python/Django, Node.js, Docker, Amazon Web Services
-date:   2016-01-18 10:18:25 +0100
+date:   2016-09-30 10:18:25 +0100
 published: true
 ---
 
@@ -26,7 +26,7 @@ We're a startup based in [Hasselt](https://en.wikipedia.org/wiki/Hasselt) on the
 
 ### Our Stack
 
-Python/Django, Node.js, C++, AWS (IoT, Lambda, DynamoDB, ECS, Kinesis, Machine Learning, S3), BeagleBone, Docker, 
+Python/Django, Node.js, C++, AWS (IoT, Lambda, DynamoDB, ECS, Kinesis, Machine Learning, S3), ElasticSearch, BeagleBone, Docker, 
 Angular 2, React.js, Webpack, Gulp
 
 However, all of these technologies are interchangeable. We believe in continuously improving our stack and always 
